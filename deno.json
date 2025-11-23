@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@corespeed/zypher": "jsr:@corespeed/zypher@^0.5.1",
+    "groq-sdk": "npm:groq-sdk@^0.36.0",
+    "rxjs-for-await": "npm:rxjs-for-await@^1.0.0"
+  }
+}
